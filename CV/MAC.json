@@ -1,0 +1,34 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Marcos",
+      "surnames": "Alba Regidor",
+      "description": "Buscando problemas complejos que resolver y equipos con talento que escalar"
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/marcosalbaregidor"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://mobile.twitter.com/MAlbaRegidor"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/marcosalbaregidor"
+        }
+      ]
+    }
+  }
+}
