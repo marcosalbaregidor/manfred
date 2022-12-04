@@ -1,23 +1,195 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Marcos",
       "surnames": "Alba Regidor",
-      "description": "Buscando problemas complejos que resolver y equipos con talento que escalar"
+      "title": "Group Marketing Intelligence Director at Verisure Securitas Direct",
+      "description": "Buscando problemas complejos que resolver y equipos con talento que escalar",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/marcosalbaregidor"
-      },
-      {
         "type": "twitter",
         "URL": "https://mobile.twitter.com/MAlbaRegidor"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/marcosalbaregidor"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Verisure Securitas Direct "
+        },
+        "roles": [
+          {
+            "name": "Group Marketing Intelligence Director",
+            "startDate": "2018-10-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Lingokids"
+        },
+        "roles": [
+          {
+            "name": "Entrepreneur In Residence",
+            "startDate": "2018-06-01",
+            "finishDate": "2018-09-30",
+            "challenges": [
+              {
+                "description": "Lingokids is a online language learning service for children ages 2-6. Backed by top VC investors like Bessemer, Holtbrinck Ventures or JME.\n\nLaunched from scratch a new product designed for educators. Responsibilities:\n\n- Product: identify educators' problems and build a product to solve them\n- Marketing: execute a marketing strategy using different channels finding an attractive cost of acquisition\n- Management: coordinate with tech, marketing and content departments for different tasks\n- Business development: close long-term collaborations with several stakeholders"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Samaipata Ventures"
+        },
+        "roles": [
+          {
+            "name": "Early tech investor",
+            "startDate": "2017-08-01",
+            "finishDate": "2018-05-31",
+            "challenges": [
+              {
+                "description": "European seed VC fund investing in marketplaces and digital vertical brands. Responsibilities:\n\n- End to end analysis of investment opportunities: discovery, analysis and negotiation\n- Content marketing: newsletter and blog posts\n- Foster relationship with ecosystem: Business Angels, Accelerators, VCs, etc.\n- Market analysis and pattern discovery"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SocialBets"
+        },
+        "roles": [
+          {
+            "name": "Co-Founder & CEO",
+            "startDate": "2014-07-01",
+            "finishDate": "2017-08-31",
+            "challenges": [
+              {
+                "description": "Mobile app that allows you to purchase lottery tickets and place group bets in an easy, safe and transparent way (best Spanish social-gaming company and newcomer in digital gambling in 2017). Responsibilities:\n\n- Management: hiring and leading a team of 7 people from top companies and universities\n- Finance: +300.000 € raised and +200.000 € in sales\n- Product: customer development, design and product definition\n- Analytics: developed an in-house analytics model using Python and different SaaS that\nallowed to track deeply and easily every metric of the company"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "KPMG España"
+        },
+        "roles": [
+          {
+            "name": "Strategy & Operations",
+            "startDate": "2011-07-01",
+            "finishDate": "2014-07-31",
+            "challenges": [
+              {
+                "description": "Strategy & operations consulting. Projects description:\n\n- Takeover of a real estate servicer after its purchase by a private equity fund.\n- PMO (Project Management Office) in real estate asset valuation due diligence for a Spanish financial institution.\n- Online marketing strategy review and automated scorecard creation for an online learning institution.\n- New product definition, development and commercialization for a multinational telecommunication corporation.\n- End-to-end customer experience review for a multinational telecommunication corporation.\n- Redefinition of the pricing strategy for a multinational telecommunication corporation.\n- Development of the funding seeking strategy for a cutting-edge health research project. Working for a non-profit organization and a research institute.\n- Assessment of alternative energy storage markets worldwide. New technology development and market entry. Working for a top Spanish company in the energy sector."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "everis"
+        },
+        "roles": [
+          {
+            "name": "Business Consulting",
+            "startDate": "2011-03-01",
+            "finishDate": "2011-06-30",
+            "challenges": [
+              {
+                "description": "Business Consulting. Projects description:\n\n- Middle/back-office process re-engineering for a multinational Spanish bank.\n- Banking social media strategy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Stuart School of Business (Illinois Institute of Technology)"
+        },
+        "roles": [
+          {
+            "name": "Research Assistant",
+            "startDate": "2010-01-01",
+            "finishDate": "2010-06-30",
+            "challenges": [
+              {
+                "description": "High Frequency Trading. Algorithms definition and implementation of arbitrage opportunities.\nAssisting Professor Ben van Vliet."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Amplitude",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Power BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google AdManager",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google AdWords",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Analytics",
+          "type": "technology"
+        }
       }
     ]
   },
@@ -29,6 +201,15 @@
           "URL": "https://www.linkedin.com/in/marcosalbaregidor"
         }
       ]
-    }
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Business Operations & Strategy",
+        "Director / General Manager",
+        "Generalist Marketing",
+        "Product Manager"
+      ]
+    },
+    "status": "openToOffers"
   }
 }
